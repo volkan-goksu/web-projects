@@ -1,4 +1,4 @@
-# Guess My Number Game
+## Guess My Number Game
 
 ![Guess My Number](insert-image-link-here)
 
